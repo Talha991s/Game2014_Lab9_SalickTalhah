@@ -14,9 +14,5 @@ public class GameController : MonoBehaviour
         BulletManager.Instance().Init(MaxBullets, bulletType);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
 }
